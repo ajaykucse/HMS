@@ -1,0 +1,21 @@
+C:\Users\Raj\documents\visual studio 2010\Projects\Hospital\BO\bin\Debug\BO.dll
+C:\Users\Raj\documents\visual studio 2010\Projects\Hospital\BO\bin\Debug\BO.pdb
+C:\Users\Raj\documents\visual studio 2010\Projects\Hospital\BO\bin\Debug\DALL.dll
+C:\Users\Raj\documents\visual studio 2010\Projects\Hospital\BO\bin\Debug\DALL.pdb
+C:\Users\Raj\documents\visual studio 2010\Projects\Hospital\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Raj\documents\visual studio 2010\Projects\Hospital\BO\obj\Debug\BO.dll
+C:\Users\Raj\documents\visual studio 2010\Projects\Hospital\BO\obj\Debug\BO.pdb
+C:\Users\Rupok Vai\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\BO.dll
+C:\Users\Rupok Vai\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\BO.pdb
+C:\Users\Rupok Vai\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\DALL.dll
+C:\Users\Rupok Vai\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\DALL.pdb
+C:\Users\Rupok Vai\Documents\Visual Studio 2010\Projects\Hospital\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Rupok Vai\Documents\Visual Studio 2010\Projects\Hospital\BO\obj\Debug\BO.dll
+C:\Users\Rupok Vai\Documents\Visual Studio 2010\Projects\Hospital\BO\obj\Debug\BO.pdb
+C:\Users\Ajay Kumar Yadav\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\BO.dll
+C:\Users\Ajay Kumar Yadav\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\BO.pdb
+C:\Users\Ajay Kumar Yadav\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\DALL.dll
+C:\Users\Ajay Kumar Yadav\Documents\Visual Studio 2010\Projects\Hospital\BO\bin\Debug\DALL.pdb
+C:\Users\Ajay Kumar Yadav\Documents\Visual Studio 2010\Projects\Hospital\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Ajay Kumar Yadav\Documents\Visual Studio 2010\Projects\Hospital\BO\obj\Debug\BO.dll
+C:\Users\Ajay Kumar Yadav\Documents\Visual Studio 2010\Projects\Hospital\BO\obj\Debug\BO.pdb

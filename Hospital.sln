@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VIEW", "VIEW", "{468CBD2A-FD19-4BEE-8709-4147016C5363}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BO", "BO", "{12AAA67A-D781-457C-828E-FE12788457C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{B6527D78-5015-4415-97AB-EC8EEB86456E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALL", "DALL\DALL.csproj", "{F74A75D7-995F-4D23-8989-E74A9305C292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{CF04EF5B-371A-4471-8355-605F73133196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Debug|x86.ActiveCfg = Debug|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Debug|x86.Build.0 = Debug|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Release|Any CPU.ActiveCfg = Release|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Release|x86.ActiveCfg = Release|x86
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC}.Release|x86.Build.0 = Release|x86
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F74A75D7-995F-4D23-8989-E74A9305C292}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CF04EF5B-371A-4471-8355-605F73133196}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CD5BDB3-34AD-4C1F-AED2-EBB476FBA5AC} = {468CBD2A-FD19-4BEE-8709-4147016C5363}
+		{CF04EF5B-371A-4471-8355-605F73133196} = {12AAA67A-D781-457C-828E-FE12788457C7}
+		{F74A75D7-995F-4D23-8989-E74A9305C292} = {B6527D78-5015-4415-97AB-EC8EEB86456E}
+	EndGlobalSection
+EndGlobal
